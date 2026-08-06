@@ -1,0 +1,29 @@
+ini# Byte-compiled / optimized / DLL files (파이썬 컴파일 파일)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (파이썬 가상환경 폴더)
+venv/
+.venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases (로컬 개발용 데이터베이스 파일)
+*.sqlite3
+
+# Django Secret Key / Local Settings (보안 및 개인 설정 파일)
+.env
+local_settings.py
+
+# OS generated files (운영체제 자동 생성 파일)
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# Media and Static Files (사용자가 업로드한 미디어 파일 등)
+media
+/
