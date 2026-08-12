@@ -26,4 +26,6 @@ Thumbs.db
 
 # Media and Static Files (사용자가 업로드한 미디어 파일 등)
 media
-/
+
+debug.log
+
